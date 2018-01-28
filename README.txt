@@ -1,0 +1,1 @@
+Checkout basket of items with discounts
